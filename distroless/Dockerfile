@@ -1,1 +1,1 @@
-From gcr.io/distroless/static:debug-amd64
+FROM gcr.io/distroless/static:nonroot-amd64
